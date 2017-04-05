@@ -1,0 +1,27 @@
+name: Flat Blog
+version: 0.1.0
+description: An ultra-minimalist blog
+icon: rebel
+author:
+  name: Chris Loewer
+  email: chris.loewer@gmail.com
+homepage: https://github.com/chris-loewer/grav-theme-flat-blog
+demo: http://demo.yoursite.com
+keywords: grav, theme, etc
+bugs: https://github.com/chris-loewer/grav-theme-flat-blog/issues
+readme: https://github.com/chris-loewer/grav-theme-flat-blog/blob/develop/README.md
+license: MIT
+
+form:
+  validation: loose
+  fields:
+    dropdown.enabled:
+        type: toggle
+        label: Dropdown in Menu
+        highlight: 1
+        default: 1
+        options:
+          1: PLUGIN_ADMIN.ENABLED
+          0: PLUGIN_ADMIN.DISABLED
+        validate:
+          type: bool
