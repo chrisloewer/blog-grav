@@ -152,10 +152,13 @@ hr {
   text-decoration: underline;
 }
 
-.blockquote {
+blockquote {
   margin-bottom: 50px;
-  text-align: center;
   padding: 20px 10%;
+}
+
+.post-content blockquote p {
+  text-align: center;
   font-size: 36px;
   font-weight: 300;
   font-style: italic;
