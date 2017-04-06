@@ -1,5 +1,6 @@
 ---
 title: Blog
 content:
-  items: '@self.children'
+    items: '@self.children'
 ---
+

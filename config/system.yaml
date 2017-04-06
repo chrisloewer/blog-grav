@@ -1,4 +1,5 @@
 absolute_urls: false
+timezone: America/Chicago
 param_sep: ':'
 wrapped_site: false
 reverse_proxy_setup: false
@@ -12,7 +13,7 @@ languages:
   override_locale: false
 home:
   alias: /blog
-  hide_in_urls: false
+  hide_in_urls: true
 pages:
   theme: flat-blog
   order:
