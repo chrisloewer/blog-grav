@@ -1,0 +1,13 @@
+{% extends "partials/base.html.twig" %}
+
+{% block content %}
+    <div class="post-page-title">{{ page.title }}</div>
+    <div class="post-page-author">by {{ page.author }}</div>
+
+    <hr>
+
+    <div class="post-content">
+        {{ page.content }}
+    </div>
+{% endblock %}
+

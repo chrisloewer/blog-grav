@@ -4,38 +4,31 @@
     <title>{% if header.title %} {{ header.title|e('html') }} | {%endif %} {{ site.title|e('html') }} </title>
 
     {% do assets.addCss('theme://css/custom.css') %}
-    {% do assets.addCss('https://fonts.googleapis.com/css?family=Noto+Sans') %}
+    {% do assets.addCss('https://fonts.googleapis.com/css?family=Work+Sans:300,400,600,800') %}
 
     {{ assets.css() }}
 </head>
 <body>
 
 {% block header %}
-    <header class="doc_header clearfix">
-        <div class="standard_width">
-            <div class="page_title">
-                <a href="{{ base_url == '' ? '/' : base_url }}">
-                    {{ config.site.title }}
-                </a>
+    <div class="header">
+        <div class="top-nav-bar">
+
+            <div class="nav-left">
+                HOME
             </div>
 
-            <input type="checkbox" id="open_menu" class="open_menu">
-            <label for="open_menu" class="burger"><i class="fa fa-bars"></i>Open Menu</label>
-
-            <div class="page_menu">
-                <ul>
-                    {% for page in pages.children.visible %}
-                        <li>
-                            <a href="{{ page.url }}">
-                                {{ page.menu }}
-                            </a>
-                        </li>
-                    {% endfor %}
-                </ul>
+            <div class="nav-center">
+                <h1>TITLE</h1>
             </div>
 
+            <div class="nav-right">
+                <div class="button">
+                    ABOUT
+                </div>
+            </div>
         </div>
-    </header>
+    </div>
 {% endblock %}
 
 {% block body %}
@@ -48,7 +41,8 @@
 
 {% block footer %}
     <div class="footer">
-        <p>Built with Grav CMS</p>
+        <hr>
+        <p>Future content to go here</p>
     </div>
 {% endblock %}
 
