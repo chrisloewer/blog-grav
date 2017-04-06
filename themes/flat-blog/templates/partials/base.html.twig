@@ -15,19 +15,26 @@
         <div class="top-nav-bar">
 
             <div class="nav-left">
-                <div class="button">
-                    HOME
-                </div>
+                <a href="{{ base_url == '' ? '/' : base_url }}">
+
+                    <div class="button">
+                        HOME
+                    </div>
+                </a>
             </div>
 
-            <div class="nav-center">
-                <h1>TITLE</h1>
-            </div>
+            {% if page.header.main_title is defined %}
+                <div class="nav-center">
+                    <h1>{{ page.header.main_title }}</h1>
+                </div>
+            {% endif %}
 
             <div class="nav-right">
-                <div class="button">
-                    ABOUT
-                </div>
+                <a href="an-introduction-to-me">
+                    <div class="button">
+                        ABOUT
+                    </div>
+                </a>
             </div>
         </div>
     </div>
