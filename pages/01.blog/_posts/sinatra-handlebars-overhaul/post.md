@@ -1,7 +1,7 @@
 ---
 title: 'A Sinatra Handlebars Overhaul'
 published: true
-date: '14-10-2015 21:55'
+date: '2015-10-14 21:55'
 metadata:
     keywords: 'ruby, cms, sinatra, handlebars, blog'
 author: 'Chris Loewer'

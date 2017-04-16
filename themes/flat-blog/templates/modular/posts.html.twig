@@ -1,5 +1,5 @@
 
-{% set collection = page.collection() %}
+{% set collection = page.collection().order('date', 'desc') %}
 
 {% block content %}
     {% for page in collection %}

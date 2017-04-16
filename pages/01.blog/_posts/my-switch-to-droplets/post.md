@@ -1,7 +1,7 @@
 ---
 title: 'My Switch to Droplets'
 published: true
-date: '24-10-2015 22:03'
+date: '2015-10-24 22:03'
 author: 'Chris Loewer'
 ---
 
