@@ -3,6 +3,10 @@
 <head>
     <title>{% if header.title %} {{ header.title|e('html') }} | {%endif %} {{ site.title|e('html') }} </title>
 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
     {% do assets.addCss('theme://css/custom.css') %}
     {% do assets.addCss('https://fonts.googleapis.com/css?family=Work+Sans:300,400,600,800') %}
 
