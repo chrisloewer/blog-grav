@@ -1,5 +1,9 @@
 ---
 title: 'An Introduction to Me'
+published: true
+date: '12-09-2015 21:25'
+metadata:
+    keywords: 'chris, loewer, biography, developer'
 author: 'Chris Loewer'
 ---
 

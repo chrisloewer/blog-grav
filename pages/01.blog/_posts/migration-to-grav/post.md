@@ -1,9 +1,10 @@
 ---
 title: 'Migration to Grav'
-author: 'Chris Loewer'
+published: true
 date: '13-04-2017 16:24'
 metadata:
     keywords: 'blog, grav, cms, minimalism'
+author: 'Chris Loewer'
 ---
 
 While I enjoyed the process of creating my own minimalist blog platform with Ruby, it quickly became apparent that it was impractical to maintain in its current state.  Specifically, I did not have an editor to add new posts.  Instead I had to create my posts in a text editor and manually add them to my database.  My options where to either improve my custom CMS, or to adapt an existing solution to my needs.

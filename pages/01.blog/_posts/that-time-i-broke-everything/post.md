@@ -1,5 +1,9 @@
 ---
 title: 'That Time I Broke Everything'
+published: true
+date: '13-09-2015 21:42'
+metadata:
+    keywords: 'home theater, HTPC, KODI, rpi, raspberry pi, static electrity'
 author: 'Chris Loewer'
 ---
 

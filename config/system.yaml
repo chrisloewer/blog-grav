@@ -22,7 +22,7 @@ pages:
   list:
     count: 20
   dateformat:
-    short: 'jS M Y'
+    short: 'M jS Y'
     long: 'F jS \a\t g:ia'
   publish_dates: true
   process:

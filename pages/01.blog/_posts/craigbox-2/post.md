@@ -1,5 +1,9 @@
 ---
 title: 'Craigbox 2.0 - Rise of the RPI'
+published: true
+date: '28-10-2015 22:04'
+metadata:
+    keywords: 'rpi, raspberry pi, kodi, xbmc, htpc, home theater'
 author: 'Chris Loewer'
 ---
 
