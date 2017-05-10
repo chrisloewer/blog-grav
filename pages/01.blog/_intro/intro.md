@@ -2,4 +2,4 @@
 title: 'Homepage Intro'
 ---
 
-Student of web development, amatuer coffee aficionado, longboarder, and hopeless film addict. Raised in Kenya. Schooled in Texas and South Korea. Budding full-stack developer currently seeking opportunities to exercise talent in web development studio.
+Welcome to the blog of Chris Loewer.  I am a web developer in East Texas who is passionate about using technology to impact the community around me.  This is a space for me to put some of my thoughts on what I have been working into writing.
