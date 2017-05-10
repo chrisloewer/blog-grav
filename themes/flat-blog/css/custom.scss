@@ -135,6 +135,11 @@ hr {
 
 .post-content {
   padding: 0 10px;
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
 }
 .post-content p {
   margin-bottom: 50px;
