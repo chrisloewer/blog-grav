@@ -4,6 +4,7 @@ published: true
 date: '2017-04-13 16:24'
 metadata:
     keywords: 'blog, grav, cms, minimalism'
+visible: true
 author: 'Chris Loewer'
 ---
 

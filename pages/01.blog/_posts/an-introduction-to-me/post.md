@@ -7,7 +7,7 @@ metadata:
 author: 'Chris Loewer'
 ---
 
-Allow me to introduce myself. I am a student of web development, amatuer coffee aficionado, longboarder, and hopeless film addict. I am currently as senior at LeTourneau University and have almost survived my 4 year sentence in East Texas.
+Allow me to introduce myself. I am a student of web development, amatuer coffee aficionado, longboarder, and hopeless film addict. I am currently working as a front end developer and am about to hit 6 years in East Texas.
 
 ===
 
@@ -15,4 +15,6 @@ I was born in the USA, but was raised in Kenya, first in Mombasa and then later 
 
 > Raised in Kenya, first in Mombasa and then later in Nairobi
 
-As senior year at LeTourneau University unfolds I have had the chance to work on some really cool projects, both as part of school and independently. Enough people have asked me how I did X project or wrote Y code that I decided to create this blog as a platform to share some of what I've been up to. I mean for this blog to catalog my technical adventures into the unknown. Hopefully it's helpful, and maybe even a little bit interesting.
+Enough people have asked me how I did X project or wrote Y code that I decided to create this blog as a platform to share some of what I've been up to. I mean for this blog to catalog my technical adventures into the unknown. Hopefully it's helpful, and maybe even a little bit interesting.
+
+Disclaimer:  This blog has a tendency to be a guinea pig for whatever platform or framework I happen to be working with at the moment.  Because of this it evolves fairly often.  There is typically a blog post for each time I make a major change with more details.
