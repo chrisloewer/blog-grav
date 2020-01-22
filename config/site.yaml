@@ -13,3 +13,5 @@ summary:
   delimiter: '==='
 blog:
   route: /blog
+metadata:
+  generator:
