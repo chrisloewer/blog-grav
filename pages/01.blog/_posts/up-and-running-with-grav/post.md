@@ -6,6 +6,19 @@ date: '2020-01-21 21:36'
 publish_date: '2020-01-21 21:36'
 metadata:
     keywords: 'GRAV, CMS, tutorial, guide'
+    'og:title': Up and Running with Grav
+    'og:type': article
+    'og:description': A quick tutorial on how to set up a blog using Grav.
+    'og:url': http://blog.chrisloewer.com/_posts/up-and-running-with-grav
+    'og:site_name': Techster
+    'og:locale': English
+    'og:image': https://i.imgur.com/g43OEgB.png
+    'twitter:card' : Summary
+    'twitter:site' : @loewermeup
+    'twitter:title' : Up and Running with Grav
+    'twitter:description' : A quick tutorial on how to set up a blog using Grav.
+    'twitter:image' : https://i.imgur.com/g43OEgB.png
+    'twitter:creator': @loewermeup
 visible: true
 author: 'Chris Loewer'
 ---
