@@ -2,4 +2,5 @@
 
 .idea/
 plugins/
+/node_modules/
 
