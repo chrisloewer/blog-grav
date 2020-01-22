@@ -6,7 +6,9 @@ date: '2020-01-21 21:36'
 publish_date: '2020-01-21 21:36'
 metadata:
     keywords: 'GRAV, CMS, tutorial, guide'
-    'og:title': 'Up and Running with Grav'
+    title: Up and Running with Grav
+    description : A quick tutorial on how to set up a blog using Grav.
+    'og:title': Up and Running with Grav
     'og:type': article
     'og:description': 'A quick tutorial on how to set up a blog using Grav.'
     'og:url': 'http://blog.chrisloewer.com/_posts/up-and-running-with-grav'

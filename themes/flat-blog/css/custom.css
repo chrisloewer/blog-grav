@@ -139,7 +139,8 @@ code {
   text-align: left;
   padding: 15px 30px;
   margin: 50px 20px;
-  border-radius: 5px; }
+  border-radius: 5px;
+  overflow-x: scroll; }
 
 .post-content blockquote p {
   text-align: center;
