@@ -140,7 +140,7 @@ code {
   padding: 15px 30px;
   margin: 50px 20px;
   border-radius: 5px;
-  overflow-x: scroll; }
+  overflow-x: auto; }
 
 .post-content blockquote p {
   text-align: center;
